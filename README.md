@@ -1,5 +1,3 @@
 # travel-guide
 
-Live At:
-
-https://travel-explorer.netlify.app/
+Search for your desired City and Explore at : https://travel-explorer.netlify.app/
